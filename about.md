@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+MPLS > CA Transplant
+I smash numbers together and make pictures of the results,
+there is an art to it, but it's not necessarily art.
 
-### More Information
+### Also:
 
-A place to include any other types of information that you'd like to include about yourself. 
+I enjoy writing for people and for computers.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kikapphahn@gmail.com](mailto:kikapphahn@gmail.com)
